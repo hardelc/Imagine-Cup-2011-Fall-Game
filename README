@@ -1,0 +1,28 @@
+Eric Plaza - Designer, Artist 
+Rohit Nirmal - Programmer
+Harsh Bhasin - Tester, Programmer
+
+Intro:
+This was the game the three of us submitted for the ImagineCup 2011 Fall competition
+in our Intro to Game Development course at the University of Houston.
+
+Compiling:
+This project was created using Visual Studio 2010 with XNA Game Studio 4.0.
+Open the .sln file to load the project and hit F5 to compile.
+
+Running:
+The game is a top-down "bullet-hell" style shooter that was made in three months by three students
+with more experience in C++ than C#, and is unfinished in many places. Some parts of the code were
+almost literally added at the last minute.
+
+In gameplay, use the arrow keys to move the ship around, S to fire your current weapon, and 
+A/D to quickly dodge left/right. After killing enough enemies, you can press W to power up your weapon.
+You can change these controls in the Controller.cs file.
+
+As you play through the level, you will eventually encounter new enemies and two "mini-bosses".
+If the player survives, the game will eventually lock your controls and take you to the final 
+boss of the level before ending the game.
+
+The project and assets are provided as-is, with no warranty.
+
+The code relating to GameScreens and ScreenManager were provided by Microsoft.
